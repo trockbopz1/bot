@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    Functional minecraft AFK bot for servers
+    Functional minecraft AFK bot for servers online ubuntu server 
 </p>
 
 <p align="center">
